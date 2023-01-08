@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/agonscode/static/css/main.46caa4de.css",
+    "main.js": "/agonscode/static/js/main.7204181a.js",
+    "static/media/profile.jpg": "/agonscode/static/media/profile.d3abea4f01f8bfb3688a.jpg",
+    "static/media/work1.jpg": "/agonscode/static/media/work1.bc79a9a9cc3868e7b582.jpg",
+    "static/media/agonbekajCV.pdf": "/agonscode/static/media/agonbekajCV.fd9a6dbf558077d32b5e.pdf",
+    "index.html": "/agonscode/index.html",
+    "main.46caa4de.css.map": "/agonscode/static/css/main.46caa4de.css.map",
+    "main.7204181a.js.map": "/agonscode/static/js/main.7204181a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46caa4de.css",
+    "static/js/main.7204181a.js"
+  ]
+}
